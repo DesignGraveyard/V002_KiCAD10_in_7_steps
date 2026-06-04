@@ -20,9 +20,9 @@ Finally we will order, build & test the PCB.
 [![Watch the video](https://img.youtube.com/vi/4D8BNrNJ1KE/0.jpg)](https://youtu.be/4D8BNrNJ1KE)    
 
 ### Link to the GitHub with assembly instructions:  https://github.com/DesignGraveyard/V001_ESP32_bad_USB
+For good contact the USB connector thickness is 2mm to 2.2mm, please check the instruction video and GitHub for the ESP32 "Bad USB" for more information.
+### Download KiCAD10 here: www.kicad.org and ...please make a donation to the KiCAD team!
 
-### Download KiCAD10 here: www.kicad.org
-## Please donate to KiCAD!!
 
 
 
