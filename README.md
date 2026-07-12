@@ -14,10 +14,8 @@ I will use a  ESP32-S3 USB development board from a previous video as example an
 Finally we will order, build & test the PCB.
 
 ### Watch the YouTube video, it will guide you through the process step by step:  
-[![Watch the video](https://img.youtube.com/vi/4D8BNrNJ1KE/0.jpg)](https://youtu.be/4D8BNrNJ1KE)  
+[![Watch the video](https://img.youtube.com/vi/3NSjzMN1xyc/0.jpg)](https://youtu.be/3NSjzMN1xyc)  
 
-### Please check this video for the assembly instruction of the PCB  
-[![Watch the video](https://img.youtube.com/vi/4D8BNrNJ1KE/0.jpg)](https://youtu.be/4D8BNrNJ1KE)    
 
 ### Link to the GitHub with assembly instructions:  https://github.com/DesignGraveyard/V001_ESP32_bad_USB
 For good contact the USB connector thickness is 2mm to 2.2mm, please check the instruction video and GitHub for the ESP32 "Bad USB" for more information.
