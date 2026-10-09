@@ -11,7 +11,10 @@ I will use a  ESP32-S3 USB development board from a previous video as example an
 * **Step 6:** Track Routing & Ground Copper Fills
 * **Step 7:** Design Rule Check (DRC) & Exporting Gerbers  
 
-Finally we will order, build & test the PCB.
+Finally we will order, build & test the PCB. 
+
+You can order the PCB Directly at PCBWay:  
+<a href="https://www.pcbway.com/project/shareproject/ESP32_S3_Bad_SB_9dd89e10.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 ### Watch the YouTube video, it will guide you through the process step by step:  
 [![Watch the video](https://img.youtube.com/vi/3NSjzMN1xyc/maxresdefault.jpg)](https://youtu.be/3NSjzMN1xyc)  
